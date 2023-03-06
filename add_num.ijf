@@ -1,0 +1,10 @@
+fun main()
+{
+	message1 = "Please enter a number: ";
+	num_1 = getNumber(message1);
+	message2 ="Please enter another number: ";
+	num_2 = getNumber(message2);
+	sum = num_1 + num_2;
+	write("The sum of the numbers you have entered is: ");
+	write(sum);
+	}

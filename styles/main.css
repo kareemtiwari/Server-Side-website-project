@@ -1,0 +1,54 @@
+/*Kareem Tiwari*/
+
+
+html{
+	background-image: url("../Images/frame.webp");
+	background-repeat:repeat;
+	
+}
+head title{
+	color: White;
+
+}
+body{
+width:80%;
+
+}
+section{font-family: 'Courier New' , monospace;
+	width:800px;
+	margin:1em auto;
+	border-width:3px;
+	border-color:White;
+	background-color: White;
+	background-color: linear-gradiaent(90deg,purple 10%,#87CEEB 75%,#65FF00 100%);
+	box-shadow:9px 0px 18px 4px black;
+	}
+	
+	header h1{
+	font-size: 230%;
+	text-indent:25px;
+	
+	color: White ;*/
+	/*text-shadow: 4px 4px black;*/
+	/*font-style: italic;*/
+	
+}
+header img{
+max-width: 10%; 
+max-height:10%;
+margin-left:150px:
+}
+	
+header h2{
+	font-size: 125%;
+	text-indent: 25px;
+	margin-top:0;
+	margin-bottom:0;
+	margin-right:0;
+	margin-left:0;
+	color: White;
+}
+
+footer p{
+	color: White;
+}
